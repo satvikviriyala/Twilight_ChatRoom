@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>549971641071-db43s4kpgvqgikrh9s52t3pvvb848ahp.apps.googleusercontent.com</string>
+	<string>"put your client id over here</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.549971641071-db43s4kpgvqgikrh9s52t3pvvb848ahp</string>
+	<string>put your reversed client id over here</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD7HNgDrJCc3CVkOg-FNZuPZsSS2t2tdUo</string>
+	<string>api keys go here</string>
 	<key>GCM_SENDER_ID</key>
-	<string>549971641071</string>
+	<string>gcm sender over here</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:549971641071:ios:8a9b31707875f45007511a</string>
+	<string>google app id over here</string>
 </dict>
 </plist>
